@@ -1,0 +1,23 @@
+{
+  "name": "abstract-8086",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashKumarVerma/abstract-8086.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashKumarVerma/abstract-8086/issues"
+  },
+  "homepage": "https://github.com/YashKumarVerma/abstract-8086#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
